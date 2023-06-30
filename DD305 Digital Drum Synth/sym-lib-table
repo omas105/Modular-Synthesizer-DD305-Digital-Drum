@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DD305 Digital Drum Synth-rescue")(type "KiCad")(uri "${KIPRJMOD}/DD305 Digital Drum Synth-rescue.kicad_sym")(options "")(descr ""))
+)
