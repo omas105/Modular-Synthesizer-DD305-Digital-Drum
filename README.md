@@ -4,6 +4,8 @@ Circuit bending a DD305 digital drum machine into a synthesizer module
 
 [Schematic](DD305%20Digital%20Drum%20Synth/DD305%20Digital%20Drum%20Synth.pdf)
 
+[Drum voice list](Drum_voices.pdf)
+
 ##
 <p>
   <img src="Images/Mounted in case.jpg" width="600"></a>
